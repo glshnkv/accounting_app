@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719862443739",
+    "project_id": "accounting-app-6aea0",
+    "storage_bucket": "accounting-app-6aea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719862443739:android:1c9b63b92f4b73f8d426fe",
+        "android_client_info": {
+          "package_name": "com.fuiqrew.frexa.utils"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmtdpApfJI9LBeVxTsm475tCO6hlcST4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
